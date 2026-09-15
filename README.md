@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/kleap-logo.svg" alt="Kleap" width="180">
+  <img src="assets/kleap-smiley.png" alt="Kleap red smiley logo" width="130">
 </p>
 
 # Kleap for Grok Bot
