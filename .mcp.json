@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "kleap": {
+      "type": "http",
+      "url": "https://kleap.co/api/mcp",
+      "note": "Official Kleap hosted MCP server. Uses OAuth in the browser; no API key should be pasted into the plugin."
+    }
+  }
+}

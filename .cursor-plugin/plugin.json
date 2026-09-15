@@ -1,0 +1,21 @@
+{
+  "name": "kleap",
+  "version": "1.0.0",
+  "description": "Build, edit, publish, and maintain websites, apps, internal tools, and other web products with Kleap.",
+  "author": {
+    "name": "Kleap Technologies SA",
+    "email": "hello@kleap.co"
+  },
+  "homepage": "https://kleap.co/mcp",
+  "repository": "https://github.com/kleaphq/kleap-grok-plugin",
+  "license": "MIT",
+  "keywords": [
+    "kleap",
+    "website-builder",
+    "app-builder",
+    "internal-tools",
+    "hosting",
+    "deployment"
+  ],
+  "logo": "assets/kleap-logo.svg"
+}
